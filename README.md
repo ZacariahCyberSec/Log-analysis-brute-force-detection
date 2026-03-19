@@ -38,11 +38,11 @@ Example alert generated:
 
 ---
 
-## 📁 Project Structure
-
 ```
 [ALERT] Possible brute force from 192.168.1.10 - 5 failed attempts
 ```
+
+## 📁 Project Structure
 
 ---
 
