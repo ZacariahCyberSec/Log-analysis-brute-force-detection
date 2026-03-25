@@ -69,6 +69,15 @@ Example alert generated:
 - Integrate SIEM tools
 
 ---
+## 📸 Detection Output (Results)
+
+![Detection Result](screenshot1.png)
+
+## 💻 Python Detection Script
+
+![Python Script](screenshot2.png)
+
+This output demonstrates detection of suspicious IP activity based on repeated failed SSH login attempts, indicating a potential brute force attack.
 
 ## 👨‍💻 Author
 **Tinashe Zacariah Nyandoro**  
