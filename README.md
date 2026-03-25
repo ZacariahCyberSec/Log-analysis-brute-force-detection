@@ -71,11 +71,11 @@ Example alert generated:
 ---
 ## 📸 Detection Output (Results)
 
-![Detection Result](screenshot1.png)
+![Detection Output](detection-output.png)
 
 ## 💻 Python Detection Script
 
-![Python Script](screenshot2.png)
+![Python Script](python-script.png)
 
 This output demonstrates detection of suspicious IP activity based on repeated failed SSH login attempts, indicating a potential brute force attack.
 
